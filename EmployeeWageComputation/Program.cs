@@ -20,7 +20,7 @@ namespace EmployeeWageComputation
                     empHrs = 4;
                     break;
                 case IS_FULL_TIME:
-                    empHrs = 8;
+                     empHrs = 8;
                     break;
                 default:
                     empHrs = 0;
